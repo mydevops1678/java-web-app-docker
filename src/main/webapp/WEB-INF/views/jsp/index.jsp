@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To DXC Technologies, Banglore.</h2>
+			<h2>Welcome To DXC Technologies, Banglore........</h2>
 			<h3>Contact @ +91-8884086999, +91- 9538523032</h3>
 		</div>	
 	</div>
